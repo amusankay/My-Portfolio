@@ -1,4 +1,4 @@
-# Data Scientist/Analyst
+# [Data Scientist/Analyst](Image/datakuest.jpg)
 
 ### Technical Skills: R, Python, Microsoft Fabrics, SQL, PowerBi, STATA, 
 
